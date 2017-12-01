@@ -8,8 +8,6 @@ A WordPress starter theme for RED Academy students, forked from Underscores.
 
 Then add me to your `wp-content` directory.
 
-!(images/inhabitent-logo-text-dark.svg "Welcome to the Inhabitent theme")
-
 # Inhabitent
 Is a project assigned by Red Academy.  In it we focused on using php as well as multiple methods in WordPress.
 
